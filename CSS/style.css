@@ -1,0 +1,136 @@
+h1 {
+    font-family: dafunk2;
+    font-size: 60px;
+    text-align:start;
+   color: rgb(255, 197, 143);
+      margin-left: 40px;
+}
+a {
+    font-family: monospace;
+    font-size: 30px;
+    text-align:start;
+   color: rgb(255, 197, 143);
+      margin-left: 40px;
+      text-decoration: none;
+}
+
+.menu {
+    position:fixed;
+   
+}
+
+p {
+    font-family: monospace;
+    font-size: 15px;
+    text-align:start;
+   color: rgb(255, 197, 143);
+      margin-left: 40px;
+}
+
+body {
+    background-color: #522511; 
+    display: flex;
+    flex-direction: column;
+}
+.img-container {
+    position: relative;
+    width: 500%;
+    height: 300vh; /* Altura de la ventana del navegador */
+    overflow: hidden; /* Oculta el desbordamiento */
+    margin-left: -200px;
+}
+.imagen-posicionada{
+    position: absolute;
+    top: 50px;
+    left: 600px;
+    width: 300px;  /* Ancho de la imagen */
+}
+.foto-gauchos{
+    position: absolute;
+    top: 50px;
+    left: 930px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+
+.foto-atardecerGauchos{
+    position: absolute;
+    top: 50px;
+    left: 1360px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+
+.foto-atardecerG{
+    position: absolute;
+    top: 370px;
+    left: 600px;
+    width: 300px;  /* Ancho de la imagen */
+    height: auto;
+}
+
+.foto-lago{
+position: absolute;
+    top: 260px;
+    left: 1360px;
+    width: 398px;  /* Ancho de la imagen */
+    height: auto;
+}
+
+.foto-nubes{
+position: absolute;
+    top: 500px;
+    left: 930px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-ramas {
+position: absolute;
+    top: 690px;
+    left: 600px;
+    width: 300px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-ramas2 {
+position: absolute;
+    top: 910px;
+    left: 930px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-rio1 {
+position: absolute;
+    top: 700px;
+    left: 1360px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-telaraña {
+position: absolute;
+    top: 1100px;
+    left: 600px;
+    width: 300px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-telaraña2 {
+position: absolute;
+    top: 1645px;
+    left: 930px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-troncos {
+position: absolute;
+    top: 1360px;
+    left: 1360px;
+    width: 400px;  /* Ancho de la imagen */
+    height: auto;
+}
+.foto-zapo{
+position: absolute;
+    top: 1510px;
+    left: 600px;
+    width: 300px;  /* Ancho de la imagen */
+    height: auto;
+}
+ 
